@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Logicware.Connect.Sdk/Logicware.Connect.Sdk.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Logicware.Connect.Sdk.Tests/Logicware.Connect.Sdk.Tests.csproj" />
+  </Folder>
+</Solution>
